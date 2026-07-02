@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-loadingpage": "../../../../components/tig/tig-loadingpage/tig-loadingpage",
+    "empty-box": "../../../../components/empty-box/empty-box"
+  }
+}

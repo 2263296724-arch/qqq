@@ -1,0 +1,1 @@
+<view class="{{['u-radio-group', 'data-v-986b4ba6', a, virtualHostClass]}}" style="{{b + ';' + (virtualHostStyle || '')}}" hidden="{{virtualHostHidden || false}}" id="{{c}}"><slot></slot></view>

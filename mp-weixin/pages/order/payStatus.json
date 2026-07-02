@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "format-price": "../../components/format-price/format-price",
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "animation": "./src/animation",
+    "recommend": "../../components/recommend/index"
+  }
+}

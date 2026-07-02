@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "合作城市",
+  "disableScroll": true,
+  "onReachBottomDistance": 120,
+  "usingComponents": {
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "tig-image": "../../../components/tig/tig-image/tig-image",
+    "format-price": "../../../components/format-price/format-price",
+    "up-rate": "../../../uni_modules/uview-plus/components/u-rate/u-rate",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "u-icon": "../../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "tig-upload": "../../../components/tig/tig-upload/tig-upload",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

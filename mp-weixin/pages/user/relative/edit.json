@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "添加亲友",
+  "usingComponents": {
+    "up-input": "../../../uni_modules/uview-plus/components/u-input/u-input",
+    "up-form-item": "../../../uni_modules/uview-plus/components/u-form-item/u-form-item",
+    "u-switch": "../../../uni_modules/uview-plus/components/u-switch/u-switch",
+    "up-form": "../../../uni_modules/uview-plus/components/u-form/u-form",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "up-picker": "../../../uni_modules/uview-plus/components/u-picker/u-picker",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

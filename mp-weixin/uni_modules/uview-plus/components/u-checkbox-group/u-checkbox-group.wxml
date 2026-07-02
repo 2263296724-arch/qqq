@@ -1,0 +1,1 @@
+<view class="{{['u-checkbox-group', 'data-v-baf10ea2', a, virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{b}}"><slot></slot></view>

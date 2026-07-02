@@ -1,0 +1,1 @@
+<text wx:if="{{a}}" class="{{['data-v-1e2af34c', c, virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{d}}">{{b}}</text>

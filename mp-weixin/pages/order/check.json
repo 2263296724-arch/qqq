@@ -1,0 +1,14 @@
+{
+  "usingComponents": {
+    "format-price": "../../components/format-price/format-price",
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "address-info": "./src/addressInfo",
+    "payment-mode": "./src/paymentMode",
+    "stroe-card": "./src/storeCard",
+    "coupon-info": "./src/couponInfo",
+    "invoice-info": "./src/invoiceInfo",
+    "total-card": "./src/totalCard"
+  }
+}

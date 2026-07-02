@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "up-icon": "../../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "up-loading-icon": "../../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon",
+    "floating-cart-fab": "../../../components/FloatingCartFab",
+    "pharmacy-points-coupon-carousel": "./pharmacy-points-coupon-carousel",
+    "checkup-portal-city-picker": "../../../components/checkup-portal-city-picker",
+    "tig-popup": "../../../components/tig/tig-popup/tig-popup"
+  }
+}

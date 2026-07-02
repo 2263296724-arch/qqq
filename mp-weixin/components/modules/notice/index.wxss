@@ -1,0 +1,1 @@
+.notice-ad-warp .item-notice-con{background:#fff;height:40rpx;display:flex;align-items:center;padding:10rpx 0;color:#555}.notice-ad-warp .item-notice-con .item-notice-ico{margin-left:20rpx;width:32rpx;height:32rpx}.notice-ad-warp .item-notice-con .item-notice-ico image{width:100%;height:100%}.notice-ad-warp .item-notice-con .item-notice-list{margin-left:16rpx}

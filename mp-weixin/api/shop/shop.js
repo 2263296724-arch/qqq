@@ -1,0 +1,1 @@
+"use strict";const t=require("../../utils/request.js");exports.getShopDetail=e=>t.request({url:`shop/shop/detail?shopId=${e}`,method:"get"}),exports.getShopList=e=>t.request({url:"shop/shop/list",method:"get",params:e}),exports.shopCollection=e=>t.request({url:"shop/shop/collect",method:"post",data:e});

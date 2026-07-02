@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-lazy-image": "../../../components/tig/tig-lazy-image/tig-lazy-image"
+  }
+}

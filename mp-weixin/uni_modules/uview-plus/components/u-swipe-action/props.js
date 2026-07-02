@@ -1,0 +1,1 @@
+"use strict";const e=require("../../libs/vue.js"),o=require("../../libs/config/props.js"),s=e.defineMixin({props:{autoClose:{type:Boolean,default:()=>o.props.swipeAction.autoClose},opendItem:{type:Boolean,default:!1}}});exports.props=s;

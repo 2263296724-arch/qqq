@@ -1,0 +1,1 @@
+"use strict";exports.normalizeServiceConfig=function(e){return e&&"object"==typeof e?{url:String(e.url??e.kefuLink??e.kefuUrl??e.link??""),serviceType:Number(e.serviceType??e.kefuType??0),corpId:String(e.corpId??e.wechatCorpId??e.corp_id??""),show:Number(e.show??e.isShow??e.is_show??0),openType:Number(e.openType??e.open_type??0)}:{}};

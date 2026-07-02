@@ -1,0 +1,6 @@
+{
+  "softinputMode": "adjustPan",
+  "usingComponents": {
+    "base-login": "./src/baseLogin"
+  }
+}

@@ -1,0 +1,1 @@
+<view style="{{c + ';' + (virtualHostStyle || '')}}" class="{{['tig-countdown', virtualHostClass]}}" hidden="{{virtualHostHidden || false}}" id="{{d}}"><up-count-down wx:if="{{a}}" u-i="5623f3bf-0" bind:__l="__l" u-p="{{b}}"/></view>

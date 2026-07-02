@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "up-steps-item": "../../uni_modules/uview-plus/components/u-steps-item/u-steps-item",
+    "up-steps": "../../uni_modules/uview-plus/components/u-steps/u-steps"
+  }
+}

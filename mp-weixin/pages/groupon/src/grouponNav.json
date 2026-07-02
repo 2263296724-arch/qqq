@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-navbar": "../../../components/tig/tig-navbar/tig-navbar"
+  }
+}

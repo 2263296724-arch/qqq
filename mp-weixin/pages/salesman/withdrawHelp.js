@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),r={};if(!Array){e.resolveComponent("tig-layout")()}Math;const t=e._export_sfc(r,[["render",function(r,t){return{a:e.gei(r,"")}}],["__scopeId","data-v-0fb30a51"]]);wx.createPage(t);

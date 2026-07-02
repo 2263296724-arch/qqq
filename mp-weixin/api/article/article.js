@@ -1,0 +1,1 @@
+"use strict";const e=require("../../utils/request.js");exports.getArticle=(t,r)=>e.request({url:"article/article/"+r,method:"get",params:t}),exports.getArticleList=t=>e.request({url:"article/article/list",method:"get",params:t});

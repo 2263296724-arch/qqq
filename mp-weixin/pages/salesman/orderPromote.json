@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "format-price": "../../components/format-price/format-price",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "empty": "./src/empty",
+    "time-filter": "./src/timeFilter"
+  }
+}

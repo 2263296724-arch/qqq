@@ -1,0 +1,1 @@
+<view style="{{c + ';' + (virtualHostStyle || '')}}" class="{{['fixed-placeholder', 'data-v-25a9adda', virtualHostClass]}}" hidden="{{virtualHostHidden || false}}" id="{{d}}"><view class="{{['content', 'data-v-25a9adda', a && 'border']}}"><slot/></view><view class="placeholder data-v-25a9adda" style="{{'padding-top:' + b}}"/></view>

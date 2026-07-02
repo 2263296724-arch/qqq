@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "up-transition": "../../uni_modules/uview-plus/components/u-transition/u-transition",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "step-one": "./src/stepOne",
+    "step-tow": "./src/stepTow."
+  }
+}

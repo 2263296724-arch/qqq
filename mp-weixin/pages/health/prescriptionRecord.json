@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "处方记录",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

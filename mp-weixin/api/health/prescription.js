@@ -1,0 +1,1 @@
+"use strict";const t=require("../../utils/request.js");exports.getPrescriptionInquirySessionList=e=>t.request({url:"prescription/inquiry/session/list",method:"post",data:e}),exports.getPrescriptionInquiryTextRecordList=e=>t.request({url:"prescription/inquiry/textRecordList",method:"post",data:e});

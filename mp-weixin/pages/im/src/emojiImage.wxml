@@ -1,0 +1,1 @@
+<tig-image wx:if="{{a}}" u-i="2a158e98-0" bind:__l="__l" u-p="{{b}}" class="{{[virtualHostClass]}}" virtualHostClass="{{[virtualHostClass]}}" style="{{virtualHostStyle}}" virtualHostStyle="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" virtualHostHidden="{{virtualHostHidden || false}}" id="{{c}}" virtualHostId="{{c}}"/>

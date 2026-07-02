@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "tig-navbar": "../../components/tig/tig-navbar/tig-navbar",
+    "format-price": "../../components/format-price/format-price",
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "up-loading-icon": "../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon",
+    "empty-box": "../../components/empty-box/empty-box",
+    "tig-fixed-placeholder": "../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "specification": "../../components/product/specification"
+  }
+}

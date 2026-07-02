@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "康复设备",
+  "navigationStyle": "default",
+  "usingComponents": {
+    "pharmacy-category-page": "./components/pharmacy-category-page"
+  }
+}

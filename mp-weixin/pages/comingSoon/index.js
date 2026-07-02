@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),t={data:()=>({}),methods:{}};if(!Array){e.resolveComponent("tig-layout")()}Math;const o=e._export_sfc(t,[["render",function(t,o,r,a,n,c){return{a:e.p({title:"待开放"}),b:e.gei(t,"")}}],["__scopeId","data-v-1779d93c"]]);wx.createPage(o);

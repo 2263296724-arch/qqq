@@ -1,0 +1,1 @@
+<view bindtap="{{a}}" class="{{[virtualHostClass]}}" style="{{'height:inherit;width:inherit' + ';' + (virtualHostStyle || '')}}" hidden="{{virtualHostHidden || false}}" id="{{b}}"><slot/></view>

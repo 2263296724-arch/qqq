@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-image": "../../tig/tig-image/tig-image"
+  }
+}

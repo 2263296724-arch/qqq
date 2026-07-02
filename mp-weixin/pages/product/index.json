@@ -1,0 +1,24 @@
+{
+  "usingComponents": {
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "tig-popup": "../../components/tig/tig-popup/tig-popup",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "product-groupon": "./src/productGroupon",
+    "product-nav": "./src/productNav",
+    "product-img": "./src/productImg",
+    "product-title-info": "./src/productTitleInfo",
+    "product-seckill-title": "./src/productSeckillTitle",
+    "product-discount-title": "./src/productDiscountTitle",
+    "product-comment": "./src/productComment",
+    "product-shop-info": "./src/productShopInfo",
+    "specification": "../../components/product/specification",
+    "product-coupon": "./src/productCoupon",
+    "product-groupon-more": "./src/productGrouponMore",
+    "product-content": "./src/productContent",
+    "service": "../../components/service/index",
+    "animation": "./src/animation",
+    "error": "./src/error",
+    "recommend": "../../components/recommend/index"
+  }
+}

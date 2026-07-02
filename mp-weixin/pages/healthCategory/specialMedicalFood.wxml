@@ -1,0 +1,1 @@
+<health-market-category-page wx:if="{{b}}" class="r" virtualHostClass="r" u-r="categoryPageRef" u-i="586a7358-0" bind:__l="__l" u-p="{{b}}"/><floating-cart-fab wx:if="{{d}}" bindtap="{{c}}" u-i="586a7358-1" bind:__l="__l" u-p="{{d}}"/>

@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "up-radio": "../../../uni_modules/uview-plus/components/u-radio/u-radio",
+    "up-radio-group": "../../../uni_modules/uview-plus/components/u-radio-group/u-radio-group",
+    "tig-fixed-placeholder": "../tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-popup": "../tig-popup/tig-popup",
+    "up-picker": "../../../uni_modules/uview-plus/components/u-picker/u-picker"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "处方详情",
+  "usingComponents": {
+    "tig-navbar": "../../components/tig/tig-navbar/tig-navbar",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

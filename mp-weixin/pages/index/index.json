@@ -1,0 +1,7 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "checkup-portal-city-picker": "../../components/checkup-portal-city-picker"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "usingComponents": {
+    "u-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "loading-box": "../../components/loading-box/loading-box",
+    "up-empty": "../../uni_modules/uview-plus/components/u-empty/u-empty",
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "groupon-item": "./src/grouponItem",
+    "groupon-list-layout": "./src/grouponListLayout",
+    "common-countdown": "../../components/commonCountdown/index",
+    "specification": "../../components/product/specification",
+    "tig-popup": "../../components/tig/tig-popup/tig-popup",
+    "error": "./src/error",
+    "recommend": "../../components/recommend/index"
+  }
+}

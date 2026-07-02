@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "format-price": "../../components/format-price/format-price",
+    "up-input": "../../uni_modules/uview-plus/components/u-input/u-input",
+    "up-upload": "../../uni_modules/uview-plus/components/u-upload/u-upload",
+    "emoji": "./src/Emoji",
+    "emoji-html": "./src/emojiHtml",
+    "prompt-tone": "./src/promptTone"
+  }
+}

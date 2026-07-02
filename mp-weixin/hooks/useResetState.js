@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js");function t(e){return"object"!=typeof e||null===e?e:JSON.parse(JSON.stringify(e))}exports.useResettableRef=function(n,r=t){const o=e.ref(r(n));return[o,()=>{o.value=r(n)}]};

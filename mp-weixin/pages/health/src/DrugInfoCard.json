@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-number-box": "../../../components/tig/tig-number-box/tig-number-box"
+  }
+}

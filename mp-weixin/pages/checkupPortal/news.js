@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js");Math||(t+c)();const t=()=>"./components/checkup-portal-back-bar.js",c=()=>"./components/checkup-portal-tabbar.js",o=e.defineComponent({__name:"news",setup:t=>(t,c)=>({a:e.p({title:"资讯"}),b:e.p({active:"news"}),c:e.gei(t,"")})}),a=e._export_sfc(o,[["__scopeId","data-v-198f63b7"]]);wx.createPage(a);

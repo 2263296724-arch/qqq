@@ -1,0 +1,1 @@
+"use strict";const e=require("../../utils/request.js");exports.getCategoryAll=()=>e.request({url:"category/category/all",method:"get"}),exports.getCategoryHot=()=>e.request({url:"category/category/hot",method:"get"}),exports.getCategoryList=t=>e.request({url:"category/category/list?id="+t,method:"get",cancelPrevious:!0,requestKey:"categoryList"});

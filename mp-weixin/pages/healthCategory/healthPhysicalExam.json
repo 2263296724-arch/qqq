@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "健康体检",
+  "navigationStyle": "custom",
+  "navigationBarBackgroundColor": "#BAFFFF",
+  "onReachBottomDistance": 100,
+  "usingComponents": {
+    "up-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "checkup-portal-city-picker": "../../components/checkup-portal-city-picker",
+    "product-advanced-filter-popup": "../../components/product-advanced-filter-popup/product-advanced-filter-popup",
+    "tig-popup": "../../components/tig/tig-popup/tig-popup"
+  }
+}

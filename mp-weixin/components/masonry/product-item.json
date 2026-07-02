@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-lazy-image": "../tig/tig-lazy-image/tig-lazy-image",
+    "format-price": "../format-price/format-price",
+    "up-loading-icon": "../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon",
+    "activity-card": "./activityCard"
+  }
+}

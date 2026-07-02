@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "我的订单",
+  "usingComponents": {
+    "up-tabs": "../../uni_modules/uview-plus/components/u-tabs/u-tabs",
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "format-price": "../../components/format-price/format-price",
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "loading-box": "../../components/loading-box/loading-box",
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "empty-box": "../../components/empty-box/empty-box",
+    "remind-deliver-success-popup": "../../components/order/remind-deliver-success-popup",
+    "remind-deliver-limit-popup": "../../components/order/remind-deliver-limit-popup"
+  }
+}

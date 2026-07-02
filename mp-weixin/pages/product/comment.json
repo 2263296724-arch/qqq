@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "up-rate": "../../uni_modules/uview-plus/components/u-rate/u-rate",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

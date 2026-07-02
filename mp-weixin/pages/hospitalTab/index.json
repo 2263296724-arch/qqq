@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "",
+  "disableScroll": true,
+  "usingComponents": {
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "partner-hospital-list-core": "../../components/partnerHospital/PartnerHospitalListCore"
+  }
+}

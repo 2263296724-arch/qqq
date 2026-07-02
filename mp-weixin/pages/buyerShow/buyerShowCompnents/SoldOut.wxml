@@ -1,0 +1,1 @@
+<view class="{{['sold-out-box', 'data-v-9b826b01', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{c}}"><view wx:if="{{a}}" class="outsale data-v-9b826b01">{{b}}</view><slot/></view>

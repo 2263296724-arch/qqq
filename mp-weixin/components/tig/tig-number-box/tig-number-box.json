@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "up-number-box": "../../../uni_modules/uview-plus/components/u-number-box/u-number-box"
+  }
+}

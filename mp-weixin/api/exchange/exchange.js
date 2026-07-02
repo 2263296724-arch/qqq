@@ -1,0 +1,1 @@
+"use strict";const e=require("../../utils/request.js");exports.addExchangeToCart=t=>e.request({url:"product/exchange/addToCart",method:"post",data:t}),exports.getExchangeDetail=t=>e.request({url:"product/exchange/detail",method:"get",params:{id:t}}),exports.getExchangeList=t=>e.request({url:"product/exchange/list",method:"get",params:t});

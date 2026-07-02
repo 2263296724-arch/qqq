@@ -1,0 +1,1 @@
+<view class="{{[b, virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{c}}"><view class="module-ad-content"><view style="{{a}}"/></view></view>

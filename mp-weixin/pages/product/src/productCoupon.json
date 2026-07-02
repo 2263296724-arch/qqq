@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "format-price": "../../../components/format-price/format-price",
+    "tig-image": "../../../components/tig/tig-image/tig-image",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-popup": "../../../components/tig/tig-popup/tig-popup"
+  }
+}

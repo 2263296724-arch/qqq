@@ -1,0 +1,1 @@
+"use strict";const e=require("../../utils/request.js");exports.getSalesman=()=>e.request({url:"salesman/salesman/detail",method:"get"}),exports.getUser=()=>e.request({url:"user/user/detail",method:"get"});

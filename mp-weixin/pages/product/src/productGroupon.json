@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-image": "../../../components/tig/tig-image/tig-image",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "common-countdown": "../../../components/commonCountdown/index"
+  }
+}

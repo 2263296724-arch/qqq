@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "loading-box": "../../components/loading-box/loading-box",
+    "up-empty": "../../uni_modules/uview-plus/components/u-empty/u-empty",
+    "horizontal-tabs": "./buyerShowCompnents/horizontal-tabs",
+    "waterfall-layout": "./buyerShowCompnents/WaterfallLayout",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "tig-lazy-image": "../../components/tig/tig-lazy-image/tig-lazy-image",
+    "buyer-show-item": "./src/buyerShowItem",
+    "buyer-show-close-tip": "./src/buyerShowCloseTip"
+  }
+}

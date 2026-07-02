@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "推广二维码",
+  "usingComponents": {
+    "tig-navbar": "../../../components/tig/tig-navbar/tig-navbar",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

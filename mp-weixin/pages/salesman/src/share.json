@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-qrcode": "../../../components/tig/tig-qrcode/tig-qrcode",
+    "share-card": "./shareCard",
+    "save-image-text-card": "./saveImageTextCard",
+    "share-qrcode": "./shareQrcode"
+  }
+}

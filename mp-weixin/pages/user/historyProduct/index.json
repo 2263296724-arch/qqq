@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "tig-image": "../../../components/tig/tig-image/tig-image",
+    "format-price": "../../../components/format-price/format-price",
+    "up-checkbox": "../../../uni_modules/uview-plus/components/u-checkbox/u-checkbox",
+    "up-checkbox-group": "../../../uni_modules/uview-plus/components/u-checkbox-group/u-checkbox-group",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "tig-checkbox": "../../../components/tig/tig-checkbox/tig-checkbox",
+    "tig-fixed-placeholder": "../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

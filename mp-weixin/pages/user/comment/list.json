@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "tig-image": "../../../components/tig/tig-image/tig-image",
+    "format-price": "../../../components/format-price/format-price",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "up-rate": "../../../uni_modules/uview-plus/components/u-rate/u-rate",
+    "loading-box": "../../../components/loading-box/loading-box",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

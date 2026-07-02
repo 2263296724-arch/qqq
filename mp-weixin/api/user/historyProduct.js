@@ -1,0 +1,1 @@
+"use strict";const t=require("../../utils/request.js");exports.delHistoryProduct=r=>t.request({url:"user/user/delHistoryProduct",method:"post",data:{ids:r}}),exports.historyProductList=()=>t.request({url:"user/user/historyProduct",method:"get"});

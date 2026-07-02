@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "合作医院",
+  "disableScroll": true,
+  "onReachBottomDistance": 120,
+  "navigationStyle": "default",
+  "usingComponents": {
+    "partner-hospital-list-core": "../../components/partnerHospital/PartnerHospitalListCore"
+  }
+}

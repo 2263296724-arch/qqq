@@ -1,0 +1,1 @@
+"use strict";const e=require("../../utils/request.js"),r=require("../../utils/userInvoice.js");exports.getCheckInvoice=r=>e.request({url:"order/check/getInvoice",method:"get",params:r}),exports.pickApprovedSpecialInvoiceForCheckout=function(e,c){return r.pickApprovedSpecialInvoice(e,c)};

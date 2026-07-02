@@ -1,0 +1,1 @@
+<block wx:if="{{a}}"><view class="app-permission data-v-ed4fb409"><view class="content-box data-v-ed4fb409" style="{{'margin-top:' + d}}"><view class="content data-v-ed4fb409"><view class="title data-v-ed4fb409">{{b}}</view><view class="desc data-v-ed4fb409">{{c}}</view></view></view></view></block>

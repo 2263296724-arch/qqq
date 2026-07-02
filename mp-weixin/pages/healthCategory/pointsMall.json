@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "积分商城",
+  "navigationStyle": "custom",
+  "navigationBarBackgroundColor": "#BAFFFF",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "points-mall-page": "./components/points-mall-page"
+  }
+}

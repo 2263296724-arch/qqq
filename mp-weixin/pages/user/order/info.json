@@ -1,0 +1,16 @@
+{
+  "usingComponents": {
+    "up-steps-item": "../../../uni_modules/uview-plus/components/u-steps-item/u-steps-item",
+    "up-steps": "../../../uni_modules/uview-plus/components/u-steps/u-steps",
+    "u-icon": "../../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "tig-image": "../../../components/tig/tig-image/tig-image",
+    "format-price": "../../../components/format-price/format-price",
+    "tig-fixed-placeholder": "../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "u-signature": "../../../uni_modules/uview-plus/components/u-signature/u-signature",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout",
+    "service": "../../../components/service/index",
+    "remind-deliver-success-popup": "../../../components/order/remind-deliver-success-popup",
+    "remind-deliver-limit-popup": "../../../components/order/remind-deliver-limit-popup"
+  }
+}

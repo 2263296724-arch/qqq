@@ -1,0 +1,1 @@
+<view class="{{['u-count-down', 'data-v-14363bde', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{c}}"><block wx:if="{{$slots.d}}"><slot name="d"></slot><slot/></block><block wx:else><text class="u-count-down__text data-v-14363bde">{{a}}</text></block></view>

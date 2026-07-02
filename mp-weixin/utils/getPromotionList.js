@@ -1,0 +1,1 @@
+"use strict";const o=require("../api/product/product.js");exports.getPromotionList=async r=>{try{return await o.getPromotion({products:r.products,shopId:r.shopId,from:r.from})}catch(t){throw console.error(t),t}};

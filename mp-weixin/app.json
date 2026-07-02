@@ -1,0 +1,361 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/hospitalTab/index",
+    "pages/productCate/index",
+    "pages/cart/index",
+    "pages/orderList/index",
+    "pages/userTab/index"
+  ],
+  "subPackages": [
+    {
+      "root": "pages/login",
+      "pages": [
+        "index",
+        "mallAgreement",
+        "wechatAccountChoice",
+        "wechatBindMobile"
+      ]
+    },
+    {
+      "root": "pages/search",
+      "pages": [
+        "index",
+        "result"
+      ]
+    },
+    {
+      "root": "pages/register",
+      "pages": [
+        "index",
+        "agreement"
+      ]
+    },
+    {
+      "root": "pages/address",
+      "pages": [
+        "list",
+        "editRegion"
+      ]
+    },
+    {
+      "root": "pages/seckill",
+      "pages": [
+        "list"
+      ]
+    },
+    {
+      "root": "pages/webviewPage",
+      "pages": [
+        "index"
+      ]
+    },
+    {
+      "root": "pages/reset",
+      "pages": [
+        "index"
+      ]
+    },
+    {
+      "root": "pages/errorPage",
+      "pages": [
+        "404"
+      ]
+    },
+    {
+      "root": "pages/cartJump",
+      "pages": [
+        "cartJump"
+      ]
+    },
+    {
+      "root": "pages/customPage",
+      "pages": [
+        "index"
+      ]
+    },
+    {
+      "root": "pages/exchange",
+      "pages": [
+        "list"
+      ]
+    },
+    {
+      "root": "pages/activity",
+      "pages": [
+        "index"
+      ]
+    },
+    {
+      "root": "pages/shop",
+      "pages": [
+        "index",
+        "category",
+        "list"
+      ]
+    },
+    {
+      "root": "pages/article",
+      "pages": [
+        "issue/list",
+        "issue/detail",
+        "news/detail",
+        "news/list"
+      ]
+    },
+    {
+      "root": "pages/product",
+      "pages": [
+        "index",
+        "consult",
+        "comment",
+        "groupBuying"
+      ]
+    },
+    {
+      "root": "pages/coupon",
+      "pages": [
+        "index",
+        "detail",
+        "search"
+      ]
+    },
+    {
+      "root": "pages/order",
+      "pages": [
+        "check",
+        "peCheck",
+        "pay",
+        "payStatus",
+        "openPay"
+      ]
+    },
+    {
+      "root": "pages/policy",
+      "pages": [
+        "list",
+        "download"
+      ]
+    },
+    {
+      "root": "pages/im",
+      "pages": [
+        "index",
+        "list",
+        "page"
+      ]
+    },
+    {
+      "root": "pages/salesman",
+      "pages": [
+        "index",
+        "personalInfo",
+        "upQrcode",
+        "performanceStat",
+        "level",
+        "assetsCenter",
+        "orderPromote",
+        "list",
+        "detail",
+        "inOutRecordList",
+        "withdraw",
+        "relationList",
+        "withdrawHelp",
+        "businessCard",
+        "businessCardExternal",
+        "salesmanCard",
+        "portalPoster",
+        "notifyCenter",
+        "notifyCenterDetail",
+        "settlementDetail",
+        "material",
+        "promotionCode"
+      ]
+    },
+    {
+      "root": "pages/user",
+      "pages": [
+        "afterSale/edit",
+        "messageLog/index",
+        "afterSale/info",
+        "afterSale/list",
+        "afterSale/negotiate",
+        "afterSale/shipments",
+        "comment/list",
+        "security/phone",
+        "security/newPhone",
+        "security/email",
+        "account/index",
+        "account/cardManagement/list",
+        "account/cardManagement/edit",
+        "historyProduct/index",
+        "order/info",
+        "order/modifyAddress",
+        "profile/index",
+        "relative/list",
+        "relative/edit",
+        "verifier/writeOff",
+        "myServices/index",
+        "collectProduct/index",
+        "comment/info",
+        "afterSale/leaveMessage",
+        "invoiceManagement/index",
+        "invoiceManagement/applyInvoice",
+        "invoiceManagement/editInvoiceTitle",
+        "invoiceManagement/editSpecialInvoice",
+        "invoiceManagement/invoiceInfo",
+        "invoiceManagement/src/imageView",
+        "security/password",
+        "point/detail",
+        "point/rule",
+        "point/gift/index",
+        "point/gift/record",
+        "point/gift/share",
+        "point/gift/claim",
+        "merchantEnter/index",
+        "merchantEnter/principalType",
+        "merchantEnter/agreement",
+        "collectionShop/index",
+        "sign/index",
+        "bindMobilePhone/index",
+        "ranks/index",
+        "userCertification/index",
+        "levelCenter/index",
+        "levelCenter/benefit",
+        "suggest/index",
+        "about/index",
+        "ordermessage/index",
+        "referrer/index"
+      ]
+    },
+    {
+      "root": "pages/health",
+      "pages": [
+        "appointment",
+        "fillInfo",
+        "consultPrescriptionChat",
+        "addMedicineUser",
+        "prescriptionDetail",
+        "prescriptionRecord",
+        "inquiryChatRecord",
+        "healthRecord"
+      ]
+    },
+    {
+      "root": "pages/partnerHospital",
+      "pages": [
+        "index",
+        "detail",
+        "city",
+        "navigation"
+      ]
+    },
+    {
+      "root": "pages/comingSoon",
+      "pages": [
+        "index"
+      ]
+    },
+    {
+      "root": "pages/buyerShow",
+      "pages": [
+        "index",
+        "buyerShowDetail",
+        "addBuyerShow"
+      ]
+    },
+    {
+      "root": "pages/groupon",
+      "pages": [
+        "mylist",
+        "list"
+      ]
+    },
+    {
+      "root": "pages/lottery",
+      "pages": [
+        "index"
+      ]
+    },
+    {
+      "root": "pages/checkupPortal",
+      "pages": [
+        "index",
+        "physical",
+        "partnerHospital",
+        "report",
+        "reportQuery",
+        "packageList",
+        "packageDetail",
+        "news",
+        "mine"
+      ]
+    },
+    {
+      "root": "pages/healthCategory",
+      "pages": [
+        "pharmacyCategory",
+        "pointsMall",
+        "pointsActivityDetail",
+        "pointsActivityCheck",
+        "specialMedicalFood",
+        "healthPhysicalExam",
+        "peOrderList",
+        "rehabilitationEquipment",
+        "culturalTourism"
+      ]
+    }
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom",
+    "navigationBarTitleText": "YiQueYi"
+  },
+  "tabBar": {
+    "backgroundColor": "#ffffff",
+    "borderStyle": "white",
+    "color": "#999999",
+    "selectedColor": "#008f96",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/images/tabbar/home.png",
+        "selectedIconPath": "static/images/tabbar/home-active.png"
+      },
+      {
+        "pagePath": "pages/hospitalTab/index",
+        "text": "医院",
+        "iconPath": "static/images/tabbar/hospital.png",
+        "selectedIconPath": "static/images/tabbar/hospital-active.png"
+      },
+      {
+        "pagePath": "pages/cart/index",
+        "text": "购物车",
+        "iconPath": "static/images/tabbar/cart.png",
+        "selectedIconPath": "static/images/tabbar/cart-active.png"
+      },
+      {
+        "pagePath": "pages/userTab/index",
+        "text": "我的",
+        "iconPath": "static/images/tabbar/user.png",
+        "selectedIconPath": "static/images/tabbar/user-active.png"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "获取您的位置信息"
+    },
+    "scope.camera": {
+      "desc": "用于扫描体检预约核销二维码"
+    },
+    "scope.writePhotosAlbum": {
+      "desc": "为了更好地为您提供服务"
+    }
+  },
+  "lazyCodeLoading": "requiredComponents",
+  "usingComponents": {}
+}

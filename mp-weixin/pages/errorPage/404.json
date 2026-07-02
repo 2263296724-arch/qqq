@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

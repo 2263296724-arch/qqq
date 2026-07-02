@@ -1,0 +1,1 @@
+"use strict";exports.hasValidArticleNav=function(r){return null!=r&&("object"==typeof r&&!Array.isArray(r)&&function(r){if(null==r)return!1;if("string"==typeof r){const e=r.trim();if(!e)return!1;if("null"===e.toLowerCase()||"undefined"===e.toLowerCase())return!1;const t=Number(e);return Number.isFinite(t)&&t>0}return"number"==typeof r&&Number.isFinite(r)&&r>0}(r.articleId))};

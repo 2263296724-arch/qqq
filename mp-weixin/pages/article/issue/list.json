@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "up-tabs": "../../../uni_modules/uview-plus/components/u-tabs/u-tabs",
+    "tig-image": "../../../components/tig/tig-image/tig-image",
+    "empty-box": "../../../components/empty-box/empty-box",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

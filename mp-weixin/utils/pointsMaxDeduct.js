@@ -1,0 +1,1 @@
+"use strict";exports.buildPointsMaxDeductTag=function(t,r){const e=function(t,r){if(null==t||""===t)return"";const e=Number(t);if(!Number.isFinite(e)||e<=0)return"";if(2===Number(r))return`${e%1==0?String(Math.round(e)):e.toFixed(1).replace(/\.0$/,"")}%`;return e%1==0?`¥${e}`:`¥${e.toFixed(2)}`}(t,r);return e?`积分最高可抵扣${e}`:""};

@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "stroe-card": "./src/storeCard",
+    "total-card": "./src/totalCard"
+  }
+}

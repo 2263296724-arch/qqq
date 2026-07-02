@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "套餐详情",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "up-loading-icon": "../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon",
+    "up-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "checkup-portal-back-bar": "./components/checkup-portal-back-bar",
+    "service": "../../components/service/index"
+  }
+}

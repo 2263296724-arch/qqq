@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "up-upload": "../../uni_modules/uview-plus/components/u-upload/u-upload",
+    "up-loading-icon": "../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon"
+  }
+}

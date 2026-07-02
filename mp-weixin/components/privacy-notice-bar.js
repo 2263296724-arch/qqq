@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js"),o=e.defineComponent({__name:"privacy-notice-bar",props:{description:{}},setup:o=>(o,t)=>({a:e.t(o.description),b:e.gei(o,"")})}),t=e._export_sfc(o,[["__scopeId","data-v-47190152"]]);wx.createComponent(t);

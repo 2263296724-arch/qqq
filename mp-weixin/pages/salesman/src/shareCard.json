@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "format-price": "../../../components/format-price/format-price",
+    "tig-popup": "../../../components/tig/tig-popup/tig-popup",
+    "image-text-card": "./imageTextCard",
+    "poster-card": "./posterCard"
+  }
+}

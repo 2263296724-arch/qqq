@@ -1,0 +1,1 @@
+"use strict";const e=require("../store/config.js"),t=require("./index.js");exports.hrefHasOAuthCode=function(){return!1},exports.shouldUseWechatPendingAuth=function(){const i=e.useConfigStore();return 1===i.openWechatRegister||!i.initLoading&&("miniProgram"===i.XClientType||"wechat"===i.XClientType||t.isWeixinBrowser())};

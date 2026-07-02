@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "format-price": "../../../../components/format-price/format-price",
+    "up-input": "../../../../uni_modules/uview-plus/components/u-input/u-input",
+    "tig-button": "../../../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder"
+  }
+}

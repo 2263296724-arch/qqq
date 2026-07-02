@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "u-icon": "../../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "up-swipe-action-item": "../../../uni_modules/uview-plus/components/u-swipe-action-item/u-swipe-action-item",
+    "up-swipe-action": "../../../uni_modules/uview-plus/components/u-swipe-action/u-swipe-action",
+    "loading-box": "../../../components/loading-box/loading-box",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

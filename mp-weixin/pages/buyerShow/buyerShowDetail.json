@@ -1,0 +1,15 @@
+{
+  "usingComponents": {
+    "up-swiper": "../../uni_modules/uview-plus/components/u-swiper/u-swiper",
+    "up-image": "../../uni_modules/uview-plus/components/u-image/u-image",
+    "up-divider": "../../uni_modules/uview-plus/components/u-divider/u-divider",
+    "up-input": "../../uni_modules/uview-plus/components/u-input/u-input",
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "tig-fixed-placeholder": "../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "buyer-show-close-tip": "./src/buyerShowCloseTip",
+    "comments": "./comments",
+    "emoji-picker": "./buyerShowCompnents/emojiPicker"
+  }
+}

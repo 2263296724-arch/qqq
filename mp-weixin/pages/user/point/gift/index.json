@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "赠送积分",
+  "usingComponents": {
+    "tig-layout": "../../../../components/tig/tig-layout/tig-layout"
+  }
+}

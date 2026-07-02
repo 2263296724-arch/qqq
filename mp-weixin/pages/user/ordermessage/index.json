@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "tig-navbar": "../../../components/tig/tig-navbar/tig-navbar",
+    "u-empty": "../../../uni_modules/uview-plus/components/u-empty/u-empty",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

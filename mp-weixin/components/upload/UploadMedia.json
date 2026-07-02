@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-image": "../tig/tig-image/tig-image",
+    "up-loading-icon": "../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon",
+    "u-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon"
+  }
+}

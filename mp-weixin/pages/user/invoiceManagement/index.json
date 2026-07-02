@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout",
+    "invoice-list": "./src/invoiceList",
+    "invoice-title-list": "./src/invoiceTitleList",
+    "certification": "./src/certification"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "format-price": "../../components/format-price/format-price",
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "up-textarea": "../../uni_modules/uview-plus/components/u-textarea/u-textarea",
+    "tig-popup": "../../components/tig/tig-popup/tig-popup",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

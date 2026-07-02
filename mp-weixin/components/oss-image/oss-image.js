@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),s=e.defineComponent({__name:"oss-image",props:{src:{},mode:{default:"aspectFit"},imgClass:{default:""},imgStyle:{default:""}},setup:s=>(s,t)=>({a:s.src,b:s.mode,c:e.n(s.imgClass),d:e.s(s.imgStyle),e:e.gei(s,"")})});wx.createComponent(s);

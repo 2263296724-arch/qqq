@@ -1,0 +1,15 @@
+{
+  "usingComponents": {
+    "up-form-item": "../../uni_modules/uview-plus/components/u-form-item/u-form-item",
+    "up-textarea": "../../uni_modules/uview-plus/components/u-textarea/u-textarea",
+    "up-form": "../../uni_modules/uview-plus/components/u-form/u-form",
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "loading-box": "../../components/loading-box/loading-box",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "tig-fixed-placeholder": "../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "product-list": "./src/ProductList",
+    "upload-media": "../../components/upload/UploadMedia",
+    "buyer-show-close-tip": "./src/buyerShowCloseTip"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../common/vendor.js"),t={};const n=e._export_sfc(t,[["render",function(t,n){return{a:e.t(t.$t("已过期")),b:e.gei(t,"")}}],["__scopeId","data-v-67e07ee1"]]);wx.createComponent(n);

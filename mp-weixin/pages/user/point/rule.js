@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../common/vendor.js"),t={};if(!Array){e.resolveComponent("tig-layout")()}Math;const r=e._export_sfc(t,[["render",function(t,r){return{a:e.p({title:"积分规则"}),b:e.gei(t,"")}}],["__scopeId","data-v-48a85d6c"]]);wx.createPage(r);

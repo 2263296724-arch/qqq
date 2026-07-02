@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-button": "../../../../components/tig/tig-button/tig-button"
+  }
+}

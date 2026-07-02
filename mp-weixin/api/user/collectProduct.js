@@ -1,0 +1,1 @@
+"use strict";const t=require("../../utils/request.js");exports.delCollectProduct=e=>t.request({url:"user/collectProduct/cancel",method:"post",data:e}),exports.getCollectProductList=e=>t.request({url:"user/collectProduct/list",method:"get",params:e});

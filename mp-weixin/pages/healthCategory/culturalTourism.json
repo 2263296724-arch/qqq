@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "特色文旅",
+  "navigationStyle": "default",
+  "usingComponents": {
+    "pharmacy-category-page": "./components/pharmacy-category-page"
+  }
+}

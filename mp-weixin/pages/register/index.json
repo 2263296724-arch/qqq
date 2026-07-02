@@ -1,0 +1,12 @@
+{
+  "usingComponents": {
+    "up-input": "../../uni_modules/uview-plus/components/u-input/u-input",
+    "up-form-item": "../../uni_modules/uview-plus/components/u-form-item/u-form-item",
+    "tig-mobile-areacode": "../../components/tig/tig-mobile-areacode/tig-mobile-areacode",
+    "up-form": "../../uni_modules/uview-plus/components/u-form/u-form",
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "tig-checkbox": "../../components/tig/tig-checkbox/tig-checkbox",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "verification-code": "../../components/verificationCode/index"
+  }
+}

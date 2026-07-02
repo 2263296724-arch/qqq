@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "tig-upload": "../../components/tig/tig-upload/tig-upload",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "service": "../../components/service/index"
+  }
+}

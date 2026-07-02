@@ -1,0 +1,1 @@
+"use strict";const e=require("../../utils/request.js");exports.getUnreadCount=()=>e.request({url:"user/message/unreadCount",method:"get"}),exports.getUser=()=>e.request({url:"user/user/detail",method:"get"});

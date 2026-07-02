@@ -1,0 +1,1 @@
+"use strict";const r=require("./productDetailRoute.js");exports.shouldUseNormalOrderSubmit=e=>{if(3===Number(e.flowType))return!1;if(null!=e.registerApplyId&&""!==String(e.registerApplyId).trim())return!1;return!(e.cartList??[]).flatMap(r=>r.carts??[]).some(e=>Number(e.productType)===r.PRODUCT_TYPE_PHYSICAL_EXAM_PACKAGE)};

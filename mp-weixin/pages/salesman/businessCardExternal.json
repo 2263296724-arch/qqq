@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "tig-qrcode": "../../components/tig/tig-qrcode/tig-qrcode",
+    "guide": "../../components/product/guide",
+    "business-card-poster": "./src/businessCardPoster"
+  }
+}

@@ -1,0 +1,1 @@
+<text wx:if="{{a}}" class="{{[c, d, e, f, 'u-badge', 'data-v-01255db2', virtualHostClass]}}" style="{{g + ';' + h + ';' + (virtualHostStyle || '')}}" hidden="{{virtualHostHidden || false}}" id="{{i}}">{{b}}</text>

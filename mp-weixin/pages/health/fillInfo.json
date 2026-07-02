@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "填写信息",
+  "usingComponents": {
+    "medicine-user-modal": "./src/MedicineUserModal",
+    "delete-confirm-modal": "./src/DeleteConfirmModal",
+    "drug-info-card": "./src/DrugInfoCard"
+  }
+}

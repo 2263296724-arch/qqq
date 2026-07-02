@@ -1,0 +1,1 @@
+"use strict";const e=require("../../utils/request.js");exports.getSalesmanPersonal=()=>e.request({url:"user/user/detail",method:"get"}),exports.updateSalesmanPersonal=s=>e.request({url:"user/user/updateInformation",method:"post",data:s});

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "特医特膳",
+  "navigationStyle": "custom",
+  "navigationBarBackgroundColor": "#BAFFFF",
+  "usingComponents": {
+    "health-market-category-page": "./components/health-market-category-page",
+    "floating-cart-fab": "../../components/FloatingCartFab"
+  }
+}

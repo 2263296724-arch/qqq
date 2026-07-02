@@ -1,0 +1,1 @@
+<view class="{{['tag', 'data-v-67e07ee1', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{b}}"><block wx:if="{{$slots.d}}"><slot></slot></block><block wx:else>{{a}}</block></view>

@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "up-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "up-toast": "../../uni_modules/uview-plus/components/u-toast/u-toast",
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "up-action-sheet": "../../uni_modules/uview-plus/components/u-action-sheet/u-action-sheet",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "time-filter": "./src/timeFilter"
+  }
+}

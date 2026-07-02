@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-button": "../tig/tig-button/tig-button",
+    "up-code": "../../uni_modules/uview-plus/components/u-code/u-code",
+    "verify": "../verifition/Verify"
+  }
+}

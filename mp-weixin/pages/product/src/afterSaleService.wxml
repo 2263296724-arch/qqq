@@ -1,0 +1,1 @@
+<view class="{{['data-v-05779d1e', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{e}}"><view wx:if="{{a}}" class="tab_body data-v-05779d1e"><rich-text class="desc-text-item data-v-05779d1e" nodes="{{b}}"/></view><view wx:elif="{{c}}" class="tab_body tab_body--empty data-v-05779d1e">{{d}}</view></view>

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "up-empty": "../../uni_modules/uview-plus/components/u-empty/u-empty",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "masonry": "../../components/masonry/masonry"
+  }
+}

@@ -1,0 +1,1 @@
+"use strict";const e=require("../utils/request.js");exports.verificationCaptcha=t=>e.request({url:"common/verification/captcha",method:"POST",data:t}),exports.verificationCheck=t=>e.request({url:"common/verification/check",method:"POST",data:t});

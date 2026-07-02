@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-button": "../../../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "user-invoice-list-cards": "./userInvoiceListCards"
+  }
+}

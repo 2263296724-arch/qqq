@@ -1,0 +1,15 @@
+{
+  "usingComponents": {
+    "tig-navbar": "../../components/tig/tig-navbar/tig-navbar",
+    "tig-checkbox": "../../components/tig/tig-checkbox/tig-checkbox",
+    "format-price": "../../components/format-price/format-price",
+    "tig-number-box": "../../components/tig/tig-number-box/tig-number-box",
+    "up-swipe-action-item": "../../uni_modules/uview-plus/components/u-swipe-action-item/u-swipe-action-item",
+    "up-swipe-action": "../../uni_modules/uview-plus/components/u-swipe-action/u-swipe-action",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "activity-card": "../../components/masonry/activityCard",
+    "detail": "./src/detail",
+    "to-login": "./src/toLogin",
+    "cart-empty": "./src/cartEmpty"
+  }
+}

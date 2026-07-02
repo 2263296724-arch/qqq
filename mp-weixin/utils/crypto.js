@@ -1,0 +1,1 @@
+"use strict";const t=require("../common/vendor.js");exports.KEY="QuanRuiApiSecret",exports.aesEncrypt=function(r,e="XwKsGlMcdPMEhR1B"){const o=t.CryptoJS.enc.Utf8.parse(e),n=t.CryptoJS.enc.Utf8.parse(r);return t.CryptoJS.AES.encrypt(n,o,{mode:t.CryptoJS.mode.ECB,padding:t.CryptoJS.pad.Pkcs7}).toString()};

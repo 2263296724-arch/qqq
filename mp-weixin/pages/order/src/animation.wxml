@@ -1,0 +1,1 @@
+<block wx:if="{{r0}}"><canvas hidpi canvas-id="myCanvas" binderror="{{a}}" class="{{['canvas-content', 'data-v-7836afd1', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{b}}"/></block>

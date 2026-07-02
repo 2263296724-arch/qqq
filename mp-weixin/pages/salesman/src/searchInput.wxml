@@ -1,0 +1,1 @@
+<view class="{{['input-box', 'data-v-6d35eb88', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{e}}"><up-input wx:if="{{d}}" class="data-v-6d35eb88" virtualHostClass="data-v-6d35eb88" bindconfirm="{{a}}" bindclear="{{b}}" u-i="6d35eb88-0" bind:__l="__l" bindupdateModelValue="{{c}}" u-p="{{d}}"/></view>

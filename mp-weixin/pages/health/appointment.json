@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "健康体检",
+  "usingComponents": {
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

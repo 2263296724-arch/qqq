@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "积分规则",
+  "usingComponents": {
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

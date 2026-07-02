@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-image": "../../../components/tig/tig-image/tig-image",
+    "tig-fixed-placeholder": "../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder"
+  }
+}

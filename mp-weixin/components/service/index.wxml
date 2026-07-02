@@ -1,0 +1,1 @@
+<view bindtap="{{b}}" class="{{['service-wrap', 'data-v-c7e6c4bc', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{c}}"><slot name="d"/><slot/></view>

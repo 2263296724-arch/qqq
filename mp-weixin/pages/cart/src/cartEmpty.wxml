@@ -1,0 +1,1 @@
+<view class="{{['noCart', 'data-v-e1109669', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{c}}"><view class="pictrue data-v-e1109669"><image class="data-v-e1109669" lazy-load src="{{a}}"/></view><view class="noCart_text data-v-e1109669">{{b}}~</view></view>

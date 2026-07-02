@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "",
+  "onReachBottomDistance": 120,
+  "usingComponents": {
+    "up-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "up-loading-icon": "../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon",
+    "empty-box": "../../components/empty-box/empty-box",
+    "floating-cart-fab": "../../components/FloatingCartFab"
+  }
+}

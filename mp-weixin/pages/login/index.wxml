@@ -1,0 +1,1 @@
+<view class="{{[virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{c}}"><base-login wx:if="{{b}}" u-i="3bdcfb0e-0" bind:__l="__l" bindupdateLoginType="{{a}}" u-p="{{b}}"/></view>

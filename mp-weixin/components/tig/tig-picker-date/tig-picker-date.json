@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-button": "../tig-button/tig-button",
+    "tig-fixed-placeholder": "../tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-popup": "../tig-popup/tig-popup"
+  }
+}

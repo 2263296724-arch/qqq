@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "style-one-cate": "./styleOneCate",
+    "style-two-cate": "./styleTwoCate",
+    "style-three-cate": "./styleThreeCate"
+  }
+}

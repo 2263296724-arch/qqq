@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "format-price": "../../components/format-price/format-price",
+    "tig-countdown": "../../components/tig/tig-countdown/tig-countdown",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "specification": "../../components/product/specification",
+    "groupon-share": "../groupon/src/grouponShare",
+    "error": "./src/error",
+    "recommend": "../../components/recommend/index"
+  }
+}

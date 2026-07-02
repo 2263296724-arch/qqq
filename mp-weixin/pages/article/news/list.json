@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tig-image": "../../../components/tig/tig-image/tig-image",
+    "empty-box": "../../../components/empty-box/empty-box",
+    "loading-box": "../../../components/loading-box/loading-box",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

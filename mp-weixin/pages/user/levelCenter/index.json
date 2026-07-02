@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout",
+    "topcard": "./src/topCard",
+    "taskcard": "./src/taskCard",
+    "leveldesc": "./src/levelDesc"
+  }
+}

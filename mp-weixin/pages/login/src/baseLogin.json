@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-mobile-areacode": "../../../components/tig/tig-mobile-areacode/tig-mobile-areacode",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "tig-checkbox": "../../../components/tig/tig-checkbox/tig-checkbox",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout",
+    "verification-code": "../../../components/verificationCode/index",
+    "verify": "../../../components/verifition/Verify"
+  }
+}

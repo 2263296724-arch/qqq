@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout",
+    "sign-calendar": "./src/SignCalendar"
+  }
+}

@@ -1,0 +1,1 @@
+.sold-out-box.data-v-9b826b01{position:relative}.sold-out-box .outsale.data-v-9b826b01{position:absolute;top:50%;left:50%;width:70%;height:70%;transform:translate(-50%,-50%);background:rgba(0,0,0,.4);font-size:24rpx;color:#fff;letter-spacing:0;border-radius:100%;display:flex;align-items:center;justify-content:center;z-index:9}

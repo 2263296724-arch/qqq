@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-navbar": "../tig-navbar/tig-navbar",
+    "tig-tabbar": "../tig-tabbar/tig-tabbar",
+    "tig-wechart-login": "../tig-wechart-login/tig-wechart-login",
+    "tig-statistic-log": "../tig-statistic-log/tig-statistic-log"
+  }
+}

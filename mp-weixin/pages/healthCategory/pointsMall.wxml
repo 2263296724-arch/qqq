@@ -1,0 +1,1 @@
+<points-mall-page u-r="pageRef" u-i="5e74ee59-0" bind:__l="__l" class="{{['r', virtualHostClass]}}" virtualHostClass="{{['r', virtualHostClass]}}" style="{{virtualHostStyle}}" virtualHostStyle="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" virtualHostHidden="{{virtualHostHidden || false}}" id="{{b}}" virtualHostId="{{b}}"/>

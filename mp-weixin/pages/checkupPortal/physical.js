@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js"),o=e.defineComponent({__name:"physical",setup:o=>(e.onLoad(()=>{e.index.redirectTo({url:"/pages/checkupPortal/partnerHospital"})}),(o,r)=>({a:e.gei(o,"")}))});wx.createPage(o);

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "time-filter": "./src/timeFilter"
+  }
+}

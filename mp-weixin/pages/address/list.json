@@ -1,0 +1,14 @@
+{
+  "usingComponents": {
+    "up-radio": "../../uni_modules/uview-plus/components/u-radio/u-radio",
+    "up-swipe-action-item": "../../uni_modules/uview-plus/components/u-swipe-action-item/u-swipe-action-item",
+    "up-swipe-action": "../../uni_modules/uview-plus/components/u-swipe-action/u-swipe-action",
+    "up-radio-group": "../../uni_modules/uview-plus/components/u-radio-group/u-radio-group",
+    "empty-box": "../../components/empty-box/empty-box",
+    "loading-box": "../../components/loading-box/loading-box",
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

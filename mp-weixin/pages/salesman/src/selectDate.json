@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-picker-date": "../../../components/tig/tig-picker-date/tig-picker-date"
+  }
+}

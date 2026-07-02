@@ -1,0 +1,1 @@
+"use strict";const e=require("../../common/vendor.js");Math||t();const t=()=>"../../components/partnerHospital/PartnerHospitalListCore.js",n=e.defineComponent({__name:"index",setup:t=>(t,n)=>({a:e.p({variant:"standalone"}),b:e.gei(t,"")})}),a=e._export_sfc(n,[["__scopeId","data-v-81d6b347"]]);wx.createPage(a);

@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "format-price": "../../../components/format-price/format-price",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout",
+    "detail": "./src/detail",
+    "log": "./src/log",
+    "deposit": "./src/deposit",
+    "raply-to-card": "./src/raplyToCard"
+  }
+}

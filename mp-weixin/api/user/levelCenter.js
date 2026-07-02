@@ -1,0 +1,1 @@
+"use strict";const e=require("../../utils/request.js");exports.getUserLevelInfo=s=>e.request({url:"user/user/levelInfo",method:"get",params:s}),exports.getUserLevelList=()=>e.request({url:"user/user/levelList",method:"get"});

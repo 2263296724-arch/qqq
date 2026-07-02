@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "待开放",
+  "usingComponents": {
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

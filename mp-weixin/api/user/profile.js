@@ -1,0 +1,1 @@
+"use strict";const e=require("../../utils/request.js");exports.getProfile=()=>e.request({url:"user/user/detail",method:"get"}),exports.updateProfile=t=>e.request({url:"user/user/updateInformation",method:"post",data:t});

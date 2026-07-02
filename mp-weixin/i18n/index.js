@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js"),a=require("../locale/index.js"),s=e.createI18n({legacy:!1,fallbackLocale:"zh",globalInjection:!0,missing:(e,a)=>a,missingWarn:!1,fallbackWarn:!1,silentTranslationWarn:!0,silentFallbackWarn:!0,messages:a.messages});exports.i18n=s;

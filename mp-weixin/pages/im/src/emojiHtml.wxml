@@ -1,0 +1,1 @@
+<rich-text nodes="{{a}}" class="{{['data-v-b3bfa201', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{b}}"/>

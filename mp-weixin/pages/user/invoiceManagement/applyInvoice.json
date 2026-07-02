@@ -1,0 +1,11 @@
+{
+  "usingComponents": {
+    "up-form-item": "../../../uni_modules/uview-plus/components/u-form-item/u-form-item",
+    "up-form": "../../../uni_modules/uview-plus/components/u-form/u-form",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-popup": "../../../components/tig/tig-popup/tig-popup",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout",
+    "empty-box": "../../../components/empty-box/empty-box"
+  }
+}

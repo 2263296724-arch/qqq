@@ -1,0 +1,1 @@
+<view class="{{['standalone-partner', 'data-v-81d6b347', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{b}}"><partner-hospital-list-core wx:if="{{a}}" class="data-v-81d6b347" virtualHostClass="data-v-81d6b347" u-i="81d6b347-0" bind:__l="__l" u-p="{{a}}"/></view>

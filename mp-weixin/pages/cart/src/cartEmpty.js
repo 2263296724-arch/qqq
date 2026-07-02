@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../common/vendor.js"),t=require("../../../utils/index.js"),n=e.defineComponent({__name:"cartEmpty",setup:n=>(n,r)=>({a:e.unref(t.staticResource)("cart_empty.png"),b:e.t(n.$t("购物车内还没商品哦，去逛逛吧")),c:e.gei(n,"")})}),r=e._export_sfc(n,[["__scopeId","data-v-e1109669"]]);wx.createComponent(r);

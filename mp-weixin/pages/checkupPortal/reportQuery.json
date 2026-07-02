@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "查报告",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "checkup-portal-back-bar": "./components/checkup-portal-back-bar"
+  }
+}

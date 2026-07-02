@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "确认订单",
+  "navigationStyle": "custom",
+  "navigationBarBackgroundColor": "#BAFFFF",
+  "usingComponents": {
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "format-price": "../../components/format-price/format-price",
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "address-info": "../order/src/addressInfo"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-navbar": "../../components/tig/tig-navbar/tig-navbar",
+    "up-empty": "../../uni_modules/uview-plus/components/u-empty/u-empty",
+    "search": "./src/search",
+    "menu-box": "./src/menu",
+    "select-cate": "./src/selectCate",
+    "masonry": "../../components/masonry/masonry"
+  }
+}

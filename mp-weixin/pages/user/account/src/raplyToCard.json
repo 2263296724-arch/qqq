@@ -1,0 +1,13 @@
+{
+  "component": true,
+  "usingComponents": {
+    "up-picker": "../../../../uni_modules/uview-plus/components/u-picker/u-picker",
+    "up-button": "../../../../uni_modules/uview-plus/components/u-button/u-button",
+    "up-form-item": "../../../../uni_modules/uview-plus/components/u-form-item/u-form-item",
+    "up-input": "../../../../uni_modules/uview-plus/components/u-input/u-input",
+    "up-textarea": "../../../../uni_modules/uview-plus/components/u-textarea/u-textarea",
+    "up-form": "../../../../uni_modules/uview-plus/components/u-form/u-form",
+    "tig-button": "../../../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder"
+  }
+}

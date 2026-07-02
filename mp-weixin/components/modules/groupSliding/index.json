@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "format-price": "../../format-price/format-price",
+    "common-buy-button": "../commonBuyButton/index"
+  }
+}

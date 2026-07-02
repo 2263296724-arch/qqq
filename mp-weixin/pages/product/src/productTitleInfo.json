@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "format-price": "../../../components/format-price/format-price",
+    "product-share": "./productShare",
+    "activity-card": "../../../components/masonry/activityCard",
+    "product-groupon-title": "./productGrouponTitle"
+  }
+}

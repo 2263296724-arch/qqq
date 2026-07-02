@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "format-price": "../../components/format-price/format-price",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "search-input": "./src/searchInput",
+    "empty": "./src/empty",
+    "share": "./src/share"
+  }
+}

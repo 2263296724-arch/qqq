@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "format-price": "../../../components/format-price/format-price",
+    "up-list": "../../../uni_modules/uview-plus/components/u-list/u-list",
+    "tig-checkbox": "../../../components/tig/tig-checkbox/tig-checkbox",
+    "sold-out": "../buyerShowCompnents/SoldOut",
+    "tig-lazy-image": "../../../components/tig/tig-lazy-image/tig-lazy-image"
+  }
+}

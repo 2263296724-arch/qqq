@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-button": "../tig-button/tig-button",
+    "tig-checkbox": "../tig-checkbox/tig-checkbox",
+    "tig-popup": "../tig-popup/tig-popup"
+  }
+}

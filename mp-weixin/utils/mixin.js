@@ -1,0 +1,1 @@
+"use strict";const r=require("./index.js"),e=require("../store/tabbar.js"),o={install(o){o.mixin({onLoad:()=>{const o=r.currRoute()||"";e.useTabbarStore().currRoute=o},onShow:()=>{const o=r.currRoute()||"";e.useTabbarStore().currRoute=o},onPageScroll(){}})}};exports.mixin=o;

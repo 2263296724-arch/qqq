@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "亲友管理",
+  "usingComponents": {
+    "up-swipe-action-item": "../../../uni_modules/uview-plus/components/u-swipe-action-item/u-swipe-action-item",
+    "up-swipe-action": "../../../uni_modules/uview-plus/components/u-swipe-action/u-swipe-action",
+    "empty-box": "../../../components/empty-box/empty-box",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "tig-fixed-placeholder": "../../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-loadingpage": "../../../components/tig/tig-loadingpage/tig-loadingpage",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout",
+    "personal-form": "./src/personalForm",
+    "enterprise-form": "./src/enterpriseForm"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "保单管家",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "up-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon"
+  }
+}

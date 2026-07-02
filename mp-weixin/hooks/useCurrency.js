@@ -1,0 +1,1 @@
+"use strict";const r=require("../store/config.js"),e=require("../store/currency.js"),u=require("../common/vendor.js");require("../utils/request.js"),require("../store/user.js");exports.useCurrency=()=>{e.useCurrencyStore();const s=r.useConfigStore(),n=u.ref(""),o=u.ref("");return n.value=s.dollarSign,o.value=s.dollarSignCn,{currency:n,currencyName:o}};

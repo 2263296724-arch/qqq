@@ -1,0 +1,1 @@
+"use strict";const e=require("../../../common/vendor.js"),o=e.defineComponent({__name:"SoldOut",props:{showOutsale:{type:Boolean,default:!1}},setup:o=>(t,s)=>e.e({a:o.showOutsale},o.showOutsale?{b:e.t(t.$t("已售罄"))}:{},{c:e.gei(t,"")})}),t=e._export_sfc(o,[["__scopeId","data-v-9b826b01"]]);wx.createComponent(t);

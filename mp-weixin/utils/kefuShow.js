@@ -1,0 +1,1 @@
+"use strict";exports.shouldShowKefuInlet=function(e,r,s,t=!1){if(!t)return!0;const u=Number(s.serviceType??0);return 0!==u&&(!!(Array.isArray(r)&&r.length>0&&r.includes(e))||(1===Number(s.show??0)||0!==u))};

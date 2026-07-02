@@ -1,0 +1,1 @@
+"use strict";const e=require("../common/vendor.js");exports.useStorageData=function(t){const n=e.ref(e.index.getStorageSync(t)||null);return{data:n,setStorageData:function(o){n.value=o,e.index.setStorageSync(t,o)}}};

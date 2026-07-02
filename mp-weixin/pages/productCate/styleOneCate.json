@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-navbar": "../../components/tig/tig-navbar/tig-navbar",
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

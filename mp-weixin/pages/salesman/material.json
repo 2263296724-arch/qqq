@@ -1,0 +1,13 @@
+{
+  "usingComponents": {
+    "up-tabs": "../../uni_modules/uview-plus/components/u-tabs/u-tabs",
+    "tig-image": "../../components/tig/tig-image/tig-image",
+    "tig-qrcode": "../../components/tig/tig-qrcode/tig-qrcode",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "search-input": "./src/searchInput",
+    "material-popover": "./src/materialPopover",
+    "material-save-card": "./src/materialSaveCard",
+    "material-choose-poster": "./src/materialChoosePoster",
+    "empty": "./src/empty"
+  }
+}

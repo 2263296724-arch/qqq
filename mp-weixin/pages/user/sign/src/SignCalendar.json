@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-popup": "../../../../components/tig/tig-popup/tig-popup"
+  }
+}

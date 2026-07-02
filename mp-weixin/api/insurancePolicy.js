@@ -1,0 +1,1 @@
+"use strict";const e=require("../utils/request.js");exports.getInvoiceDownloadUrl=o=>e.request({url:"user/policy/invoice-download-url",method:"get",params:{orderId:o}}),exports.getPolicyDownloadUrl=o=>e.request({url:"user/policy/download-policy",method:"get",params:{orderId:o}}),exports.getPolicyList=()=>e.request({url:"user/policy/list",method:"get"});

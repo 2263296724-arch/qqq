@@ -1,0 +1,1 @@
+<view class="{{['tig-back-top', 'data-v-3d2d9e30', c && 'tig-back-top--circle', virtualHostClass]}}" style="{{d + ';' + (virtualHostStyle || '')}}" catchtap="{{e}}" hidden="{{(virtualHostHidden === undefined ? !b : virtualHostHidden) || false}}" id="{{f}}"><text class="tig-back-top__icon data-v-3d2d9e30" style="{{a}}">↑</text></view>

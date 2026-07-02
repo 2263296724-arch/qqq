@@ -1,0 +1,1 @@
+<view class="{{['expand-text-container', 'data-v-a7b770dd', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{g}}"><text class="{{['data-v-a7b770dd', 'text-content', b]}}" style="{{'-webkit-line-clamp:' + c}}">{{a}}</text><text wx:if="{{d}}" class="expand-btn data-v-a7b770dd" catchtap="{{f}}">{{e}}</text></view>

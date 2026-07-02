@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-swiper": "../../tig/tig-swiper/tig-swiper",
+    "common-title": "../commonTitle/index"
+  }
+}

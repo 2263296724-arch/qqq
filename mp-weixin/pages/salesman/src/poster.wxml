@@ -1,0 +1,1 @@
+<view class="poster-main data-v-a268a4c3"><block wx:if="{{a}}"><image src="{{b}}" class="img-box data-v-a268a4c3" style="{{'height:' + c}}" catchlongpress="{{d}}"/></block></view><block wx:if="{{r0}}"><canvas id="{{e}}" class="canvas-content data-v-a268a4c3" style="{{'height:' + f}}" canvas-id="{{g}}"/></block>

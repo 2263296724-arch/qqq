@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "新增用药人",
+  "usingComponents": {
+    "tig-popup": "../../components/tig/tig-popup/tig-popup",
+    "health-info-modal": "./src/HealthInfoModal"
+  }
+}

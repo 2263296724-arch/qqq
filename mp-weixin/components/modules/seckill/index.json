@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-image": "../../tig/tig-image/tig-image",
+    "tig-countdown": "../../tig/tig-countdown/tig-countdown",
+    "format-price": "../../format-price/format-price",
+    "common-title": "../commonTitle/index"
+  }
+}

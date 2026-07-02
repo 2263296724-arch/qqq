@@ -1,0 +1,1 @@
+<label bindtap="{{d}}" class="{{['check', 'data-v-721960ac', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{e}}"><up-checkbox wx:if="{{b}}" class="data-v-721960ac" virtualHostClass="data-v-721960ac" bindchange="{{a}}" u-i="721960ac-0" bind:__l="__l" u-p="{{b}}"/> {{c}}</label>

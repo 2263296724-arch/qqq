@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "format-price": "../../components/format-price/format-price",
+    "tig-button": "../../components/tig/tig-button/tig-button",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "tag": "./src/tag"
+  }
+}

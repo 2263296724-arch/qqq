@@ -1,0 +1,1 @@
+<view class="{{['privacy-notice-bar', 'data-v-47190152', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{b}}"><text class="privacy-notice-bar__icon data-v-47190152" aria-hidden="true">i</text><text class="privacy-notice-bar__text data-v-47190152">{{a}}</text></view>

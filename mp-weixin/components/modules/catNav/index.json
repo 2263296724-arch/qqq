@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-select-lang": "../../tig/tig-select-lang/tig-select-lang"
+  }
+}

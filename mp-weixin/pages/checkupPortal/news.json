@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "资讯",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "checkup-portal-back-bar": "./components/checkup-portal-back-bar",
+    "checkup-portal-tabbar": "./components/checkup-portal-tabbar"
+  }
+}

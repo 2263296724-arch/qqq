@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "推广码",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "loading-box": "../../components/loading-box/loading-box",
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "up-scroll-list": "../../../uni_modules/uview-plus/components/u-scroll-list/u-scroll-list",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout"
+  }
+}

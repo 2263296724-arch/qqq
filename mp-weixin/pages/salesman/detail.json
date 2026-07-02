@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "format-price": "../../components/format-price/format-price",
+    "tig-fixed-placeholder": "../../components/tig/tig-fixed-placeholder/tig-fixed-placeholder",
+    "tig-layout": "../../components/tig/tig-layout/tig-layout",
+    "share": "./src/share"
+  }
+}

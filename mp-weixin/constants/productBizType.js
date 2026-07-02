@@ -1,0 +1,1 @@
+"use strict";const e={NORMAL:1,DRUG:2,PHYSICAL_EXAM:3,SPECIAL_MEDICAL_FOOD:4},r=r=>Number(r)===e.DRUG,t=`productBizType=${e.DRUG}`;exports.PRODUCT_BIZ_TYPE=e,exports.appendDrugProductDetailQuery=(e,u)=>r(u)?e.includes("?")?`${e}&${t}`:`${e}?${t}`:e,exports.isDrugProductBizType=r;

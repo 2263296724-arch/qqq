@@ -1,0 +1,1 @@
+<view wx:if="{{a}}" style="{{c + ';' + (virtualHostStyle || '')}}" class="{{['loading-box', 'data-v-add3024d', virtualHostClass]}}" hidden="{{virtualHostHidden || false}}" id="{{d}}"><view class="bottomLoading data-v-add3024d"><image lazy-load class="loading data-v-add3024d" src="{{b}}"/></view></view>

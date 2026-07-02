@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "up-input": "../../../uni_modules/uview-plus/components/u-input/u-input",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "tig-layout": "../../../components/tig/tig-layout/tig-layout",
+    "verification-code": "../../../components/verificationCode/index"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "积分活动",
+  "navigationStyle": "custom",
+  "navigationBarBackgroundColor": "#BAFFFF",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "up-icon": "../../uni_modules/uview-plus/components/u-icon/u-icon",
+    "up-loading-icon": "../../uni_modules/uview-plus/components/u-loading-icon/u-loading-icon",
+    "points-activity-items": "./components/points-activity-items",
+    "points-activity-status": "./components/points-activity-status"
+  }
+}

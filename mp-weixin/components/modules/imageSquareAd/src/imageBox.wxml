@@ -1,0 +1,1 @@
+<view class="{{['item-img-a', 'data-v-e0c53b93', virtualHostClass]}}" style="{{virtualHostStyle}}" hidden="{{virtualHostHidden || false}}" id="{{c}}"><view class="item-img-bg data-v-e0c53b93" style="{{a}}"/><tig-image wx:if="{{b}}" class="item-img data-v-e0c53b93" virtualHostClass="item-img data-v-e0c53b93" u-i="e0c53b93-0" bind:__l="__l" u-p="{{b}}"/></view>

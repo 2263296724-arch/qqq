@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "创建分享",
+  "usingComponents": {
+    "tig-layout": "../../../../components/tig/tig-layout/tig-layout"
+  }
+}

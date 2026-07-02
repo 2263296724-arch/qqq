@@ -1,0 +1,1 @@
+<view style="{{'height:' + b + ';' + ('background:' + c) + ';' + (virtualHostStyle || '')}}" class="{{[virtualHostClass]}}" hidden="{{virtualHostHidden || false}}" id="{{d}}"><up-empty wx:if="{{a}}" u-i="cfbabdb4-0" bind:__l="__l" u-p="{{a}}"/></view>

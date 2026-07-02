@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-mobile-areacode": "../../../components/tig/tig-mobile-areacode/tig-mobile-areacode",
+    "tig-button": "../../../components/tig/tig-button/tig-button",
+    "verification-code": "../../../components/verificationCode/index"
+  }
+}

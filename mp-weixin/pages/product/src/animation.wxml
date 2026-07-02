@@ -1,0 +1,1 @@
+<view class="{{['animation-box', 'data-v-877ca112', b && 'animation', virtualHostClass]}}" style="{{c + ';' + d + ';' + (virtualHostStyle || '')}}" hidden="{{virtualHostHidden || false}}" id="{{e}}"><view class="animation-content data-v-877ca112" bindanimationend="{{a}}"/></view>

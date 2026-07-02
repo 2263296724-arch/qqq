@@ -1,0 +1,8 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tig-loadingpage": "../../components/tig/tig-loadingpage/tig-loadingpage",
+    "loading-box": "../../components/loading-box/loading-box",
+    "comment": "./buyerShowCompnents/CommentList"
+  }
+}
